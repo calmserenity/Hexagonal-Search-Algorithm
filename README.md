@@ -68,3 +68,7 @@ ruff check .
 ├── docs/            # Documentation and assignment instructions
 ├── pyproject.toml   # Project configuration
 └── README.md        # This file
+```
+
+## Project Outcome
+<img width="939" height="592" alt="image" src="https://github.com/user-attachments/assets/e254bb62-4ecd-49a1-8165-4fe7698f867c" />
